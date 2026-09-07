@@ -2,4 +2,5 @@
 /node_modules
 .env.local
 a.txt
+empresa.txt
 
